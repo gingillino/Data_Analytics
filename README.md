@@ -21,4 +21,4 @@ linee
 ```
 
 [titolo link](www.google.com)
-![alt text](www.google.com)
+![alt text](image.jpg)
